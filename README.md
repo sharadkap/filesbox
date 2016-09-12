@@ -32,9 +32,14 @@ Upload the downloaded file to the '/packages' folder of concrete5.
 The installation waiting , you can see the FilesBox. Please install and click Install.
 
 ![SS1](docs/ss0020e.png)
+
 #### 3.Completion of installation.
 
 When the installation is successful , it will be displayed on the installed.Now available.
+
+#### 4.The FilesBox block , and place it in the global area.
+
+Uploaded files are managed on a page-by-page basis.
 
 ![SS1](docs/ss0030e.png)
 
@@ -74,5 +79,9 @@ HP : [hhttp://www.dropzonejs.com/](http://www.dropzonejs.com/)
 #### 3.インストールの完了
 
 インストールが成功すると、インストール済みに表示されます。利用可能になりました。
+
+#### 4.FilesBox ブロックを、グローバルエリアに配置します。
+
+アップロードしたファイルは、ページごとに管理されます。
 
 ![SS2](docs/ss0030.png)
