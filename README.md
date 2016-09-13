@@ -1,22 +1,22 @@
 # FilesBox for concrete5.7
 
-For each concrete5 page , file management.
+For each concrete5 page , you can manage files.
 
 ![SS1](docs/ss0010e.png)
 
-You can upload files by dragging and dropping .
+You can upload files by dragging and dropping them.
 
 ![SS1](docs/ss0011e.png)
 
-Uploaded file , which you can view in the list .
+Uploaded files will be listed.
 
 ![SS1](docs/ss0012e.png)
 
-In the editing screen , and save folder of files that have been registered , the list of the file is displayed .
+In the editing screen , you can see saved folder and files listed.
 
 ## Introduction
 
-That's standard file manager , because there is a case where to look for files that are used in the page becomes difficult , has created a block to manage files on a page-by-page basis.The file upload , it uses the dropzone.
+Some files are difficult to find in standard file managers, so this block was created to see each file by page to easily upload files use the dropzone.The instructions to upload are as follows.
 
 dropzone  
 HP : [hhttp://www.dropzonejs.com/](http://www.dropzonejs.com/)  
@@ -37,7 +37,7 @@ The installation waiting , you can see the FilesBox. Please install and click In
 
 When the installation is successful , it will be displayed on the installed.Now available.
 
-#### 4.The FilesBox block , and place it in the global area.
+#### 4.Drag and drag the FilesBox block into the global area.
 
 Uploaded files are managed on a page-by-page basis.
 
